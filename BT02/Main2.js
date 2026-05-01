@@ -1,4 +1,4 @@
-// SS09_BT02_Nguyễn Bình Lam Nghi
+// SS10_BT02_Nguyễn Bình Lam Nghi
 
 let i = +10;
 document.write("i=" + i + "<br/>");
