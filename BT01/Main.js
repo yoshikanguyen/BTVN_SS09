@@ -1,4 +1,4 @@
-// SS09_BT01_Nguyễn Bình Lam Nghi
+// SS10_BT01_Nguyễn Bình Lam Nghi
 
 console.log('Hello World!');
 
